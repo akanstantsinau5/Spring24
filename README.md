@@ -2,7 +2,9 @@
 Posting homework projects.
 
 Coursework:
-Computational Methods in Finance
-Machine Learning
-Quantitative Asset Management
-Risk Management
+<ul>
+  <li>Computational Methods in Finance</li>
+  <li>Machine Learning</li>
+  <li>Quantitative Asset Management</li>
+  <li>Risk Management</li>
+</ul>
